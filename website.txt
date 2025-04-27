@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>আমার বিজনেস</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Uniform Costume Solution</h1>
+        <nav>
+            <a href="#">হোম</a>
+            <a href="#">আমাদের সম্পর্কে</a>
+            <a href="#">সার্ভিসেস</a>
+            <a href="#">যোগাযোগ</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>কেনাকাটা করুন মন খুলে!</h2>
+         <p>সেরা সার্ভিস পেতে আজই যোগাযোগ করুন।</p>
+    </section>
+
+    <section class="services">
+        <h2>আমাদের সার্ভিসেস</h2>
+        <ul>
+            <li>শেফ ড্রেস</li>
+            <li>ব্লেজার</li>
+            <li>পাঞ্জাবি</li>
+        </ul>
+    </section>
+<section class="contact">
+    <h2>যোগাযোগ করুন</h2>
+    <form>
+        <input type="text" placeholder="আপনার নাম" required>
+        <input type="email" placeholder="আপনার ইমেইল" required>
+        <textarea placeholder="আপনার মেসেজ লিখুন..." required></textarea>
+        <button type="submit">পাঠান</button>
+    </form>
+</section>
+
+    <footer>
+        <p>&copy; ২০২৫ আমার বিজনেস। সর্বস্বত্ব সংরক্ষিত।</p>
+    </footer>
+
+</body>
+</html>
